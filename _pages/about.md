@@ -12,7 +12,7 @@ Hello !
 
 I'm a PhD Student @ InFluX lab (UMONS-BELGIUM) and I'm currently working on the physics of granular flow.
 
-![S_shape flow](https://github.com/dumdenis/dumdenis.github.io/blob/master/images/S_Shape.gif)
+![Sshape flow](/images/SShape.gif)
 
 
 <!-- Comment a line -->
