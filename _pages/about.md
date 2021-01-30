@@ -20,9 +20,9 @@ I'm a PhD Student @ InFluX lab (UMONS-BELGIUM). I'm currently working on the phy
 
 *Italic style*
 
-#Size up
+# Size up
 
-###up to 6
+###### up to 6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
