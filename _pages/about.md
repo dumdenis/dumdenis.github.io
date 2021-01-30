@@ -8,4 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello world ! [linkformat](https://dumdenis.github.io/) 
+Hello ! [linkformat](https://dumdenis.github.io/) 
+
+I'm a PhD Student @ InFluX lab (UMONS-BELGIUM). I'm currently working on the physics of granular flow. 
+
+ <!--<p>I will display &#128540;</p> -->
+
