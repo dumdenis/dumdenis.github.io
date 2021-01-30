@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Link of my CV : [pdf](https://github.com/dumdenis/dumdenis.github.io/blob/master/files/CV%202018%20DUMONT%20Denis_short.pdf)
+Link of my CV : [pdf](dumdenis.github.io/blob/master/files/CV%202018%20DUMONT%20Denis_short.pdf)
 
 <!--- 
 Education
