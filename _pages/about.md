@@ -10,7 +10,7 @@ redirect_from:
 
 Hello ! 
 
-I'm a PhD Student @ InFluX lab (UMONS-BELGIUM) and I'm currently working on the physics of granular flow.
+I'm a PhD Student @ InFluX lab (UMONS-BELGIUM) and I'm currently working on the physics of granular flows.
 
 ![S-Shape flow](/images/SShape.gif)
 
