@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dumont Denis"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ Hello !
 
 I'm a PhD Student @ InFluX lab (UMONS-BELGIUM) and I'm currently working on the physics of granular flow.
 
-![Sshape flow](/images/SShape.gif)
+![S-Shape flow](/images/SShape.gif)
 
 
 <!-- Comment a line -->
