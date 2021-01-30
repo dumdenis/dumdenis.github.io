@@ -17,13 +17,13 @@ I'm a PhD Student @ InFluX lab (UMONS-BELGIUM). I'm currently working on the phy
 <!-- Comment a line -->
 
 <!--
-**Bold a line**
-
-*Italic style*
-
-# Size up
-
-###### up to 6
-
+**Bold a line** -->
+<!--
+*Italic style* -->
+<!--
+# Size up -->
+<!--
+###### up to 6 -->
+<!--
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) -->
 
