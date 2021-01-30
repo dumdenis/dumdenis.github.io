@@ -12,10 +12,11 @@ Hello !
 
 I'm a PhD Student @ InFluX lab (UMONS-BELGIUM). I'm currently working on the physics of granular flow. 
 
-<!--<p> Comment a line </p>-->
+
 
 <!-- Comment a line -->
 
+<!--
 **Bold a line**
 
 *Italic style*
@@ -24,5 +25,5 @@ I'm a PhD Student @ InFluX lab (UMONS-BELGIUM). I'm currently working on the phy
 
 ###### up to 6
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) -->
 
