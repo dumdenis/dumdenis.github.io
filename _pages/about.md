@@ -10,7 +10,7 @@ redirect_from:
 
 Hello ! 
 
-I'm a PhD Student located at the University of Mons (Belgium) in the [InFluX lab](https://influxpascal.github.io/) InFluX lab (UMONS-BELGIUM) under the supervision of [Pascal Damman](https://scholar.google.com/citations?user=nUU2u2kAAAAJ&hl=fr&oi=ao). I'm currently working on the physics of dense granular flows through experiments, simulations and theory done in collaboration with [Elie Raphael](https://scholar.google.com/citations?hl=fr&user=Zl4OXt0AAAAJ) (Gulliver, ESPCI) and [Thomas Salez](https://scholar.google.com/citations?user=BeT9ZPAAAAAJ&hl=fr) (LOMA, University of Bordeaux).
+I'm a PhD Student located at the University of Mons (Belgium) in the [InFluX lab](https://influxpascal.github.io/) (UMONS-BELGIUM) under the supervision of [Pascal Damman](https://scholar.google.com/citations?user=nUU2u2kAAAAJ&hl=fr&oi=ao). I'm currently working on the physics of dense granular flows through experiments, simulations and theory done in collaboration with [Elie Raphael](https://scholar.google.com/citations?hl=fr&user=Zl4OXt0AAAAJ) (Gulliver, ESPCI) and [Thomas Salez](https://scholar.google.com/citations?user=BeT9ZPAAAAAJ&hl=fr) (LOMA, University of Bordeaux).
 
 ![S-Shape flow](/images/SShape.gif)
 
