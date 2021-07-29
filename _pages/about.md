@@ -19,6 +19,7 @@ I'm currently working on the physics of granular media through experiments, simu
 <img src="/images/GranularChainPRLCover.png" width="200px" /> <img src="/images/DEM.png" width="200px" /> <img src="/images/SShape.gif" width="200px" />
 
 
+<img src="/images/GranularChainPRLCover.png" height="200px" /> <img src="/images/DEM.png" height="200px" /> <img src="/images/SShape.gif" height="200px" />
 
 
 
