@@ -16,12 +16,14 @@ I'm currently working on the physics of granular media through experiments, simu
 
 <!--![S-Shape flow](/images/SShape.gif =250x)-->
 
-<img src="/images/GranularChainPRLCover.png" width="200px" /> <img src="/images/DEM.png" width="200px" /> <img src="/images/SShape.gif" width="200px" />
+<img src="/images/GranularChainPRLCover.png" width="200px" /> <img src="/images/DEM.png" width="250px" /> <img src="/images/SShape.gif" width="300px" />
 
 
-<img src="/images/GranularChainPRLCover.png" height="20px" /> <img src="/images/DEM.png" height="20px" /> <img src="/images/SShape.gif" height="20px" />
 
-<img src="/images/GranularChainPRLCover.png" height="20px" width="200px" /> <img src="/images/DEM.png" height="20px" width="200px" /> <img src="/images/SShape.gif" height="20px" width="200px" />
+<!--!<img src="/images/GranularChainPRLCover.png" height="20px" /> <img src="/images/DEM.png" height="20px" /> <img src="/images/SShape.gif" height="20px" />-->
+
+
+<!--!<img src="/images/GranularChainPRLCover.png" height="20px" width="200px" /> <img src="/images/DEM.png" height="20px" width="200px" /> <img src="/images/SShape.gif" height="20px" width="200px" />-->
 
 
 
