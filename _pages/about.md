@@ -16,6 +16,7 @@ I'm currently working on the physics of dense granular flows through experiments
 
 ![S-Shape flow](/images/SShape.gif =250x)
 
+<img src="/images/SShape.gif" width="200" height="200" />
 
 <!-- Comment a line -->
 
