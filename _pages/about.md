@@ -16,7 +16,7 @@ I'm currently working on the physics of granular media through experiments, simu
 
 <!--![S-Shape flow](/images/SShape.gif =250x)-->
 
-<img src="/images/LG17165cvr.pdf" width="400" />
+<img src="/images/GranularChainPRLCover.png" width="400" />
 
 <img src="/images/SShape.gif" width="400" />
 
