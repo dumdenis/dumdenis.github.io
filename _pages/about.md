@@ -18,9 +18,8 @@ I'm currently working on the physics of granular media through experiments, simu
 
 <img src="/images/GranularChainPRLCover.png" width="205px" /> <img src="/images/DEM.png" width="235px" /> <img src="/images/SShape.gif" width="300px" />
 
-<center><img src="/images/ShakenHeapGamma1Freq20.gif" width="700px" /><center>
+<center><img src="/images/ShakenHeapGamma1Freq20.gif" width="350px" /> <img src="/images/CollapseR50H100.gif" width="350px" /><center>
 
-<center><img src="/images/CollapseR50H100.gif" width="700px" /><center>
   
 
 <!--!<img src="/images/GranularChainPRLCover.png" height="20px" /> <img src="/images/DEM.png" height="20px" /> <img src="/images/SShape.gif" height="20px" />-->
