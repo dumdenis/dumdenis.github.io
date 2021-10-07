@@ -1,0 +1,15 @@
+1D Random Walk :
+
+Montrer que la marche aléatoire conduit à des distributions de déplacements équivalente à ce qu'on observe pour la diffusion de composés chimiques.
+
+Questions :
+1) Générer et représenter une marche aléatoire 1D avec n pas pour 1 marcheur
+2) Générer et représenter une marche aléatoire 1D avec n pas pour N marcheurs + tester différents n et N
+3) Etudier la distribution de probabilité du dernier pas d'une marche aléatoire avec un petit nombre de pas (n=6 par exemple); comparer quantitativement avec la distribution théorique attendue
+4) Etudier une marche aléatoire avec un grand nombre de pas (n=1000 par exemple); vérifier (via un fit) que l'on obtient bien une distribution normale
+5) Comparer les statistiques des résultats avec le modèle de la diffusion
+
+Questions supplémentaires:
+6) Regarder <x> pour un grand nombre de marcheurs (que peut-on en dire ?)
+7) Regarder <x^2> pour un grand nombre de marcheurs + fitter par une droite et discuter de la valeur de la pente (cfr. coefficient de diffusion)
+8) Envisager d'étendre l'étude à 2 ou 3 dimensions
