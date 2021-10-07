@@ -1,0 +1,14 @@
+Jeter de pièces :
+
+Simulation des lancers de pièce
+
+Questions :
+1) Générer n lancers de pièces et en mesurer la moyenne (tester différents n)
+2) Etudier la distribution de probabilité de la question 2 pour des grands n, que peut-on en dire?
+3) Générer N moyennes de n lancers de pièces
+4) Etudier la distribution de probabilité de la question 3 pour des grands N et n, fitter une loi normale et comparer avec la valeur théorique attendue de mu et sigma
+5) Comparer les résultats obtenus pour différents n (en gardant N fixe), que peut-on en dire?
+
+Questions supplémentaires
+6) Adapter le code (de manière efficace) pour effectuer avoir le choix entre des lancers de dés au lieu de pièces
+7) Et pour un dé de type tétrakihexaèdre ?
