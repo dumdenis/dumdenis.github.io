@@ -6,8 +6,8 @@ Questions :
 1) Trouver une méthode stochastique pour approcher le nombre pi
 2) Générer n lancers de flechettes sur la "cible" et approcher pi avec la méthode trouvée à la question (1)
 3) Représenter graphiquement les lancers de flechettes sur la "cible"
-3) Générer N approximations de pi en faisant n lancers + étudier la distribution de probabilité des N approximations (faire varier n et N)
-4) Estimer l'écart quadratique moyen, sqrt(<(Nhits/N − pi/4)**2>) + représenter graphiquement. Cmt varie-t-il avec N ?
+4) Générer N approximations de pi en faisant n lancers + étudier la distribution de probabilité des N approximations (faire varier n et N)
+5) Estimer l'écart quadratique moyen, sqrt(<(Nhits/N − pi/4)**2>) + représenter graphiquement. Cmt varie-t-il avec N ?
 
 
 
@@ -21,10 +21,10 @@ Questions :
 1) Trouver une méthode stochastique utilisant une marche aléatoire pour approcher le nombre pi => Attention besoin de gérer la question du rejet (cad lorsque le prochain pas est en dehors de la "cible"), de la longueur du pas et du départ de la marche !!!
 2) Approcher pi avec la méthode trouvée à la question (1) pour une marche avec un nbre de pas suffisamment grand de pas + représenter graphiquement la marche
 3) Générer N approximations de pi en faisant n marches + étudier la distribution de probabilité des N approximations (faire varier n et N)
-5)Estimer l'écart quadratique moyen  sqrt(<(Nhits/N − pi/4)**2>) + représenter graphiquement. Cmt varie-t-il avec N ?
+4)Estimer l'écart quadratique moyen  sqrt(<(Nhits/N − pi/4)**2>) + représenter graphiquement. Cmt varie-t-il avec N ?
 
 
 Questions supplémentaires
-6) Etudier la dépendance de la condition initiale sur l'estimation de pi pour une marche suffisamment longue
-7) Etudier la dépendance de la longueur du pas sur la qualité de l'approximation de pi 
-8) Etudier la dépendance de la longueur du pas sur le taux acception. Que peut-on en dire?
+5) Etudier la dépendance de la condition initiale sur l'estimation de pi pour une marche suffisamment longue
+6) Etudier la dépendance de la longueur du pas sur la qualité de l'approximation de pi 
+7) Etudier la dépendance de la longueur du pas sur le taux acception. Que peut-on en dire?
