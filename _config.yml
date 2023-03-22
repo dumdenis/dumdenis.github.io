@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Denis Dumont"
 title_separator          : "-"
 name                     : &name "Denis Dumont"
-description              : &description "PhD Student @ Univeristy of Mons (UMONS) - Belgium"
+description              : &description "Postdoc @ CEA/IRAMIS/SPEC/SPHYNX (Paris-Saclay) - France"
 url                      : https://dumdenis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dumdenis/dumdenis.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "DUMONT Denis"
-  avatar           : "PP.png"
+  avatar           : "Photo2BW.jpg"
   bio              : "PhD Student"
   location         : "Mons, Belgium"
   employer         :
