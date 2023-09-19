@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Denis Dumont"
 title_separator          : "-"
 name                     : &name "Denis Dumont"
-description              : &description "Postdoc @ CEA/IRAMIS/SPEC/SPHYNX (Paris-Saclay) - France"
+description              : &description "Postdoctoral Researcher @ Aix-Marseille Université (IUSTI) - France"
 url                      : https://dumdenis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dumdenis/dumdenis.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "DUMONT Denis"
   avatar           : "Photo2BW.jpg"
-  bio              : "Postdoc"
-  location         : "Paris-Saclay, France"
+  bio              : "Postdoctoral Researcher"
+  location         : "Marseille, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Da0gLXEAAAAJ&hl=fr&oi=ao"
