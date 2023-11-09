@@ -7,6 +7,13 @@ author_profile: true
 <head>
   <title>Image Gallery</title>
   <style>
+    /* CSS Reset for List Styles */
+    ul, li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    
     .gallery {
       display: flex;
       flex-wrap: wrap;
@@ -27,10 +34,9 @@ author_profile: true
       margin-top: 5px;
       font-size: 14px;
     }
-  </style>
-</head>
+  </style></head>
 <body>
-  <ul class="gallery">
+  <ul class="gallery" >
     <li class="gallery-item">
       <div class="gallery-item-title">Vicsek model</div>
       <img src="/images/Vicsek.gif" alt="Vicsek model">
