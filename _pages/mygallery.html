@@ -4,8 +4,50 @@ title: "Gallery"
 permalink: /mygallery/
 author_profile: true
 ---
-
 <head>
+  <title>Image Gallery</title>
+  <style>
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    
+    .gallery-item {
+      width: 200px;
+      margin: 10px;
+      text-align: center;
+    }
+    
+    .gallery-item img {
+      max-width: 100%;
+      height: auto;
+    }
+    
+    .gallery-item-title {
+      margin-top: 5px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <ul class="gallery">
+    <li class="gallery-item">
+      <img src="/images/Vicsek.gif" alt="Vicsek model">
+      <div class="gallery-item-title">Vicsek model</div>
+    </li>
+    <li class="gallery-item">
+      <img src="/images/animation2T.gif" alt="2-temperature mixture (particle)">
+      <div class="gallery-item-title"> 2-temperature mixture (harmonic disks)</div>
+    </li>
+    <li class="gallery-item">
+      <img src="/images/2TDensityField.gif" alt="2-temperature mixture (density field)">
+      <div class="gallery-item-title">2-temperature mixture (density field)</div>
+    </li>
+    <!-- Add more list items for additional images -->
+  </ul>
+</body>
+
+<!-- <head>
   <title>Galerie d'images</title>
   <style>
     .gallery {
@@ -29,5 +71,5 @@ author_profile: true
     <img src="/images/DEM.png" alt="Inclined Plane">
     <img src="/images/assemblage_chaine.PNG" alt="Granular chains">
     <!-- Ajoutez d'autres images ici -->
-  </div>
-</body>
+  <!--</div>
+</body> -->
