@@ -21,7 +21,7 @@ Previously, I did my PhD thesis at the University of Mons (Belgium) in the [InFl
 
 <!--![S-Shape flow](/images/SShape.gif =250x)-->
 
-<img src="/images/GranularChainPRLCover.png" width="205px" /> <img src="/images/DEM.png" width="235px" /> <img src="/images/SShape.gif" width="300px" />
+<!--!<img src="/images/GranularChainPRLCover.png" width="205px" /> <img src="/images/DEM.png" width="235px" /> <img src="/images/SShape.gif" width="300px" />
 
 <center><img src="/images/ShakenHeapGamma1Freq20.gif" width="350px" /> <img src="/images/CollapseR50H100.gif" width="350px" /><center>
 
