@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!
 
-I’m currently a postdoctoral researcher at Aix-Marseille Université (France) in the [IUSTI lab](https://iusti.cnrs.fr/). I study the rheology of cohesive granular matter through numerical simulations and experiments with [Olivier Pouliquen](https://scholar.google.com/citations?user=kQizjZIAAAAJ&hl=fr&oi=ao).
+I’m currently a postdoctoral researcher at Aix-Marseille Université (France) in the [IUSTI lab](https://iusti.cnrs.fr/). I study the rheology of cohesive granular matter through numerical simulations and experiments with [Olivier Pouliquen](https://scholar.google.com/citations?user=kQizjZIAAAAJ&hl=fr&oi=ao). I'm part of the [ERC Project "CohPa"](https://erccohpa.fr/).
 
 Earlier, I was a postdoctoral researcher located at the CEA (Paris-Saclay, France) in the [SPEC/SPHYNX lab](https://iramis.cea.fr/spec/SPHYNX/). I worked on the physics of biological cell tissues through numerical simulations with [Cesare Nardini](https://scholar.google.com/citations?user=F5AitakAAAAJ&hl=fr&oi=ao) and [Pierfrancesco Urbani](https://scholar.google.com/citations?hl=fr&user=tV7pohwAAAAJ&view_op=list_works&sortby=pubdate).
 
